@@ -12,7 +12,7 @@ it generate the password with any specific and with different complexity of the 
 
 ## Program Output
 
-![password generator Output](passwordgenerator.png)
+![password generator Output](passwordgenrator.png)
 
 # Rock-paper-scissor
 
